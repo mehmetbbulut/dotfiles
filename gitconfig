@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = mehmetbbulut@outlook.com
+	name = Mehmet Bulut
